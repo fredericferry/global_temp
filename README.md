@@ -27,8 +27,6 @@ The ERA5 monthly 2m temperature data can be downloaded here : https://cds.climat
 
 ![HadCRUT5_Tanom](https://user-images.githubusercontent.com/76565450/168998193-62b05274-ab01-4b73-bccd-b3ac5673df45.png)
 
-![HadCRUT5_Globa![ERA5_Tanom_monthly_2020](https://user-images.githubusercontent.com/76565450/168998356-ac2d933f-3bb4-4d32-83c5-830f3c5ffc80.png)
+![HadCRUT5_Global_Tanom_warming-stripes](https://user-images.githubusercontent.com/76565450/168998986-736c29d7-4a69-493b-a8b5-dc4c53731f43.png)
 
-l_Tanom_warming-stripes](https://user-images.githubusercontent.com/76565450/168998270-a6f851a8-d8ec-43ed-b621-61051e5fe5f8.png)
-
-![ERA5_Tanom_monthly_2020](https://user-images.githubusercontent.com/76565450/168998561-d497cc3c-9d2e-4660-9923-72ee4023c454.png)
+![ERA5_Tanom_monthly_2020](https://user-images.githubusercontent.com/76565450/168999030-dc035ea8-2a52-4fdb-b802-0213588c73d5.png)
